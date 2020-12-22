@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://gitee.com/iqcc/i-os/raw/master/YuWen.ipa</string>
+					<string>https://raw.githubusercontent.com/iqcc/ipa/main/YuWen.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://gitee.com/iqcc/i-os/raw/master/Icon60.png</string>
+					<string>https://raw.githubusercontent.com/iqcc/ipa/main/Icon60.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://gitee.com/iqcc/i-os/raw/master/Icon1014.png</string>
+					<string>https://raw.githubusercontent.com/iqcc/ipa/main/Icon1014.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
